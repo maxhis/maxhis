@@ -76,7 +76,7 @@
 
 <h2>⚡️ Where to find me</h2>
 <p>
-        <a target="_blank" href="https://twitter.com/maxhis" style="display: inline-block;"><img
+        <a target="_blank" href="https://x.com/_istar__" style="display: inline-block;"><img
                         src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419"
                         alt="twitter" /></a>
         <a target="_blank" href="https://stackoverflow.com/users/1150251" style="display: inline-block;"><img
